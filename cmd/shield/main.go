@@ -14,7 +14,7 @@ import (
 	"github.com/jhunt/go-cli"
 	env "github.com/jhunt/go-envirotron"
 	"github.com/jhunt/go-table"
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 
 	"github.com/shieldproject/shield/client/v2/shield"
 	"github.com/shieldproject/shield/core/vault"
